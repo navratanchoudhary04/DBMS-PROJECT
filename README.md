@@ -453,7 +453,7 @@ This project is created for educational purposes as a SQL demonstration project.
 
 ## Author
 
-Created for NSUT IT Branch SQL Project Demonstration
+Created for NSUT MAC Branch SQL Project Demonstration
 
 ---
 
