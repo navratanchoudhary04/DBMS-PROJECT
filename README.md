@@ -1,4 +1,4 @@
-# NSUT IT Branch - Teacher Attendance Portal (SQLite)
+# NSUT MAC Branch - Teacher Attendance Portal (SQLite)
 
 A lightweight, Bootstrap-based attendance management system for demonstrating SQL operations using SQLite database.
 
