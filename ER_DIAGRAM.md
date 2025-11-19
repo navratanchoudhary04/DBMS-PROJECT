@@ -1,6 +1,6 @@
 # Entity-Relationship Diagram
 
-## NSUT IT Branch Attendance Portal Database Schema
+## NSUT MAC Branch Attendance Portal Database Schema
 
 ### Mermaid ER Diagram
 
