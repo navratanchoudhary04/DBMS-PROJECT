@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NSUT IT Attendance Portal - Login</title>
+    <title>NSUT MAC Attendance Portal - Login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -39,7 +39,7 @@
             <div class="col-md-6 col-lg-5">
                 <div class="card login-card">
                     <div class="card-header text-center py-4">
-                        <h3><i class="fas fa-graduation-cap"></i> NSUT IT Branch</h3>
+                        <h3><i class="fas fa-graduation-cap"></i> NSUT MAC Branch</h3>
                         <p class="mb-0">Attendance Management Portal</p>
                     </div>
                     <div class="card-body p-5">
